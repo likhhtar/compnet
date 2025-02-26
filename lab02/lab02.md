@@ -64,12 +64,20 @@
 #### Демонстрация работы
 Добавили продукт
 <img src="images/1.png" width=500 />
+
+
 Получили продукт по id
 <img src="images/2.png" width=500 />
+
+
 Обновили продукт
 <img src="images/3.png" width=500 />
+
+
 Получили список продуктов
 <img src="images/4.png" width=500 />
+
+
 Удалили продукт
 <img src="images/5.png" width=500 />
 
