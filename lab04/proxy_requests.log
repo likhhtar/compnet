@@ -1,0 +1,42 @@
+2025-03-13 19:05:45,729 - URL: /www.google.com, Response Code: 200
+2025-03-13 19:05:45,729 - Cached response for http://www.google.com
+2025-03-13 19:05:45,729 - URL: /www.google.com, Response Code: 200
+2025-03-13 19:05:45,801 - URL: /images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png, Response Code: 404
+2025-03-13 19:05:45,801 - URL: /images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png, Response Code: 404
+2025-03-13 19:05:45,807 - URL: /textinputassistant/tia.png, Response Code: 500
+2025-03-13 19:05:45,812 - URL: /client_204?&atyp=i&biw=1464&bih=868&ei=WQLTZ_vKLtSNxc8PvJiMuAY&opi=89978449, Response Code: 500
+2025-03-13 19:05:45,818 - URL: /xjs/_/js/k=xjs.hp.en.zvgoCunwHPg.es5.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAcAAAAIwAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAfEcAQAAsAgCAFw/d=1/ed=1/dg=3/rs=ACT90oGcszurpdlppM-iZp5uMjijjShHZw/m=sb_he,d, Response Code: 500
+2025-03-13 19:05:45,878 - URL: /images/nav_logo229.png, Response Code: 404
+2025-03-13 19:05:45,879 - URL: /images/nav_logo229.png, Response Code: 404
+2025-03-13 19:05:45,949 - URL: /images/nav_logo229.png, Response Code: 404
+2025-03-13 19:05:45,949 - URL: /images/nav_logo229.png, Response Code: 404
+2025-03-13 19:05:45,953 - URL: /favicon.ico, Response Code: 500
+2025-03-13 19:05:53,216 - URL: /www.google.com, Response Code: 200
+2025-03-13 19:05:53,216 - Cache hit for http://www.google.com
+2025-03-13 19:10:45,305 - URL: /www.google.com, Response Code: 200
+2025-03-13 19:10:45,306 - Cache hit for http://www.google.com
+2025-03-13 19:10:54,422 - URL: /www.google.com, Response Code: 200
+2025-03-13 19:10:54,423 - Cache hit for http://www.google.com
+2025-03-13 19:10:57,007 - URL: /www.google.com, Response Code: 200
+2025-03-13 19:10:57,007 - Cache hit for http://www.google.com
+2025-03-13 19:11:16,252 - URL: /vk.com, Response Code: 403
+2025-03-13 19:11:16,252 - Blocked access to http://vk.com
+2025-03-13 19:11:16,291 - URL: /favicon.ico, Response Code: 500
+2025-03-13 19:11:24,988 - URL: /yandex.com, Response Code: 200
+2025-03-13 19:11:24,989 - Cached response for http://yandex.com
+2025-03-13 19:11:24,989 - URL: /yandex.com, Response Code: 200
+2025-03-13 19:11:25,314 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,395 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,471 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,554 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,643 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,740 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,832 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:25,917 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:26,000 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:26,089 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:26,170 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:26,257 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:28,337 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:28,413 - URL: /portal/front/resources/desktop/manifest-en.json, Response Code: 500
+2025-03-13 19:11:28,418 - URL: /favicon.ico, Response Code: 500
